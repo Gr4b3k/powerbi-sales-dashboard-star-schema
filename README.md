@@ -71,11 +71,15 @@ Aby zapewnić poprawne działanie odświeżania danych w Power Query na dowolnym
 ## Struktura repozytorium
 /powerbi
     dashboard.pbix
+    
     dashboard.png
+    
     model.png
+
 
 /raw_data
     ecommerce_23000_2024_2025_extended_v2.csv
+
 
 README.md
 
