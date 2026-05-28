@@ -10,7 +10,7 @@ sezonowości sprzedaży.
 
 Dashboard
 ![Dashboard](https://github.com/Gr4b3k/powerbi-sales-dashboard-star-schema/blob/0563be1d6ff4f90fcfdf56fda39a32fd06c2c737/powerbi/dashboard.png?raw=true)
-)
+
 Dashboard prezentuje:
 
 KPI: Całkowity przychód, Liczba zamówień, Średnia wartość zamówienia(AOV), Średnia liczba produktów na zamówienie
@@ -98,7 +98,6 @@ Kolor Przychód vs PP
 Kolor Liczba zamówień vs PP
 
 Produktywność i struktura zamówień
-
 Produkty / zamówienie PP
 Produkty / zamówienie vs PP %
 Kolor Produkty/zamówienie vs PP
